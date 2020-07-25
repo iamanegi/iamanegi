@@ -4,7 +4,7 @@
 
 ## I'm <font color="#79d70f"><b> Aman Singh Negi!</b></font>👦🏻
 
-### <a href="https://www.linkedin.com/in/aman-singh-negi-3398aa186/"><img src="assets/linkedin.svg" width="40"></a>
+### <a href="https://www.linkedin.com/in/aman-singh-negi-3398aa186/"><img src="https://github.com/Amanegi/Amanegi/blob/master/assets/linkedin.svg" width="40"></a>
 
 ## <img align="right" src="assets/dev.gif"/>
 
