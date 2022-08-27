@@ -1,32 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<g>
-	<g>
-		<g>
-			<path d="M108.382,0h23.077v22.8h21.11V0h23.078v69.044H152.57v-23.12h-21.11v23.12h-23.077L108.382,0L108.382,0z"/>
-			<path d="M205.994,22.896h-20.316V0h63.72v22.896h-20.325v46.148h-23.078L205.994,22.896L205.994,22.896z"/>
-			<path d="M259.511,0h24.063l14.802,24.26L313.163,0h24.072v69.044h-22.982V34.822l-15.877,24.549h-0.397l-15.888-24.549v34.222
-				h-22.58V0z"/>
-			<path d="M348.72,0h23.084v46.222h32.453v22.822H348.72V0z"/>
-		</g>
-	</g>
-</g>
-<g id="Guides_to_delete">
-	<g>
-		<polygon fill="#E34E26" points="107.125,470.727 74.012,99.297 437.703,99.297 404.549,470.755 255.769,512 		"/>
-		<polygon fill="#EF662A" points="255.857,129.657 255.857,480.449 376.164,447.101 404.51,129.657 		"/>
-		<polygon fill="#FFFFFF" points="141.761,175.217 154.041,312.978 311.936,312.978 306.637,372.066 255.799,385.811 
-			205.057,372.085 201.664,334.146 155.937,334.146 162.476,407.282 255.787,433.199 349.219,407.282 361.744,267.429 
-			195.706,267.429 191.538,220.777 365.732,220.777 365.873,220.777 369.953,175.217 		"/>
-		<g>
-			<polygon fill="#EBEBEB" points="255.857,175.217 141.761,175.217 154.041,312.978 255.857,312.978 255.857,267.429 
-				195.706,267.429 191.538,220.777 255.857,220.777 			"/>
-			<polygon fill="#EBEBEB" points="255.857,385.791 255.799,385.811 205.057,372.085 201.664,334.146 155.937,334.146 
-				162.476,407.282 255.787,433.199 255.857,433.179 			"/>
-		</g>
-	</g>
-</g>
+	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E65100;}
+	.st1{fill:#FF6D00;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#EEEEEE;}
+</style>
+<path class="st0" d="M45.5,0H2.5l3.8,42.9L24,48l17.7-5.1L45.5,0L45.5,0z"/>
+<path class="st1" d="M24,3.8v40.3l14.1-4l3.2-36.3H24z"/>
+<path class="st2" d="M24,25.3v-5.1h10.9L34,34.7L24,38v-5.3l5.2-1.8l0.4-5.7C29.6,25.3,24,25.3,24,25.3z M35.2,15.2l0.4-5.1H24v5.1
+	H35.2z"/>
+<path class="st3" d="M24,32.7V38l-10-3.3l-0.5-6.9h5.1l0.3,3.2L24,32.7z M17.8,15.2H24v-5.1H12.5l0.9,15.2H24v-5.1h-5.8L17.8,15.2z"
+	/>
 </svg>
