@@ -1,6 +1,6 @@
-<img src="assets/i_write_code.gif">
 <h1 align="center">Hi 👋, I'm Aman Singh Negi</h1>
 <h3 align="center">Software development enthusiast from India</h3>
+<img src="assets/i_write_code.gif">
 
 <img align="right" src="assets/dev.png" width="200" height="200"/>
 
