@@ -4,7 +4,7 @@
 
 <img align="right" src="assets/dev.png" width="200" height="200"/>
 
-- 🎓 I’m currently learning **Flutter** and **Kotlin Multiplatform Mobile**
+- 🎓 I’m currently learning **React Native** and **Kotlin Multiplatform Mobile**
 - 💬 Ask me about **Android Development**
 - 📬 Reach me at **amannegi229@gmail.com**
 
@@ -29,6 +29,8 @@
 <br>
 <p align="left">◾ Mobile Development :
 <a href="https://developer.android.com" target="_blank"> <img src="assets/android.svg" alt="android" width="40" height="40" /> </a>
+<a href="https://developer.apple.com" target="_blank"> <img src="assets/ios.svg" alt="ios" width="40" height="40" /> </a>
+<a href="https://kotlinlang.org/lp/mobile" target="_blank"> <img src="assets/kmm.svg" alt="kmm" width="40" height="40" /> </a>
 </p>
 
 <br>
